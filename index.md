@@ -31,6 +31,17 @@ Layr is a decentralized, peer to peer file storage system built atop Kademlia DH
   </figure>
 ---
 
+* Myflix: A Netflix-like video subscription application built with Rails
+  <figure>
+    <center>
+      <img src="https://s26.postimg.cc/5g9ewmrmx/myflix_search_page.jpg" alt="Myflix Search" />
+    </center>
+    <figcaption>
+      <a href="https://github.com/floalex/flo-myflix" target='_blank'>Live here</a>
+    </figcaption>
+  </figure>
+---
+
 * Trello Clone: a project management tool allows you to drag & drop the cards and lists in the board
   <figure>
     <center>
