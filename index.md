@@ -16,6 +16,10 @@ Hi, my name is Florence. I am a Software Engineer based in SF Bay area, with 4 y
 ## Feature project
 Layr is a decentralized, peer to peer file storage system built atop Kademlia DHT that enforces data integrity and availability, with cryptocurrency-based incentive scheme.
 
+Quick demo for uploading and downloading a short movie:
+{: .center}
+[![Upload Download Process](/img/demo1.png)](https://youtu.be/XiJOFeeXFN4)
+
 ---
 
 ## Personal projects
