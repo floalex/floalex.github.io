@@ -31,6 +31,7 @@ Quick demo for uploading and downloading a short movie:
     </center>
     <figcaption>
       <a href="https://pethome.herokuapp.com/" target='_blank'>Live here</a>
+      <a href="https://github.com/floalex/pet-home" target='_blank'>GitHub Link</a>
     </figcaption>
   </figure>
 ---
@@ -41,7 +42,8 @@ Quick demo for uploading and downloading a short movie:
       <img src="https://s26.postimg.cc/5g9ewmrmx/myflix_search_page.jpg" alt="Myflix Search" />
     </center>
     <figcaption>
-      <a href="https://github.com/floalex/flo-myflix" target='_blank'>Live here</a>
+      <a href="https://flo-myflix.herokuapp.com/" target='_blank'>Live here</a>
+      <a href="https://github.com/floalex/flo-myflix" target='_blank'>GitHub Link</a>
     </figcaption>
   </figure>
 ---
@@ -53,6 +55,7 @@ Quick demo for uploading and downloading a short movie:
     </center>
     <figcaption>
       <a href="https://flo-trelloclone.herokuapp.com" target='_blank'>Live here</a>
+      <a href="https://github.com/floalex/flotrelloclone" target='_blank'>GitHub Link</a>
     </figcaption>
   </figure>
 ---
