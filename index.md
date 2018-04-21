@@ -9,7 +9,7 @@ bigimg:
 ---
 
 ## About me
-Hi, my name is Florence. I am a Software Engineer based in SF Bay area, with 4 years experience in product management and data analysis. Most recently, I co-created Layr: A decentralized, peer-to-peer file storage network with Node.js. 
+Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. Previosly, I worked in product management and data analysis. Most recently, I co-created Layr: A decentralized, peer-to-peer file storage network with Node.js. 
 
 ---
 
