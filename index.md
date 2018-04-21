@@ -19,6 +19,7 @@ Layr is a decentralized, peer to peer file storage system built atop Kademlia DH
 Quick demo for uploading and downloading a short movie:
 {: .center}
 [![Upload Download Process](/img/demo1.png)](https://youtu.be/YzmQs0NmmT4)
+
 Quick demo for auditing and patching a redundant shard of copy:
 {: .center}
 [![Audit Patch Process](/img/demo2.png)](https://youtu.be/dMDRUxPyIkw)
