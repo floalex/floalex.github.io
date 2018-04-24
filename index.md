@@ -22,7 +22,7 @@ Quick demo for uploading and downloading a short movie:
 
 Quick demo for auditing and patching a redundant shard of copy:
 {: .center}
-[![Audit Patch Process](/img/demo2.png)](https://youtu.be/dMDRUxPyIkw)
+[![Audit Patch Process](/img/demo2.png)](https://youtu.be/UBGqzW6-PvE)
 
 ---
 
