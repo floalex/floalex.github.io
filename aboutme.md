@@ -9,10 +9,10 @@ title: More About me
  
  When I am not coding, you will find me doing High Intensity Interval Training, pilates, playing with cats, or playing piano. 
  
- I also like tasting different kinds of tea. One of my favorites is Jasmine Pearl Green tea. Not only it helps bring refreshness by drinking it, it also helps relaxed and clam by smelling it. 
+ I also like tasting different kinds of tea. One of my favorites is Jasmine Pearl Green tea. Not only it helps bring refreshness by drinking it, it also helps relaxed by smelling it. 
  
- I also write about technical articles to share my understandings toward specific topics, you can find out from <a href="https://medium.com/@florenceliang/">here</a>
+ I also write about technical articles to share my understandings toward specific topics, you can find out from <a href="https://medium.com/@florenceliang/">here</a>.
  
- Feel free to [contact me](mailto:florence.liang0617d@gmail.com) any time 
+ Feel free to [contact me](mailto:florence.liang0617d@gmail.com) any time.
  
  
