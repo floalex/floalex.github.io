@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Welcome
-subtitle: This is where you can check out all of my recent projects
 css: "/css/index.css"
 use-site-title: true
 bigimg:
@@ -9,7 +8,7 @@ bigimg:
 ---
 
 ## About me
-Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. Previosly, I worked in product management and data analysis. Most recently, I co-created Layr: A decentralized, peer-to-peer file storage network with Node.js. 
+Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. I have always had a passion in software development. Recently, I co-created Layr: A decentralized p2p cloud file storage network. I have also completed other freelance projects in the past. I am proficient in JavaScript, Node.js, Ruby, Rails, React, and HTML&CSS. 
 
 ---
 
@@ -28,19 +27,7 @@ Quick demo for auditing and patching a redundant shard of copy:
 
 ## Personal projects
 
-* Pet Home: A social network site dedicated for pet lovers built with Rails
-  <figure>
-    <center>
-      <img src="https://s26.postimg.cc/k6z4xef49/Pethome.jpg" alt="Pet Home" />
-    </center>
-    <figcaption>
-      <a href="https://pethome.herokuapp.com/" target='_blank'>Live here</a>
-      <a href="https://github.com/floalex/pet-home" target='_blank'>GitHub Link</a>
-    </figcaption>
-  </figure>
----
-
-* Myflix: A Netflix-like video subscription application built with Rails
+* MyFlix: A Netflix-like video subscription application built with Rails
   <figure>
     <center>
       <img src="https://s26.postimg.cc/5g9ewmrmx/myflix_search_page.jpg" alt="Myflix Search" />
@@ -52,7 +39,19 @@ Quick demo for auditing and patching a redundant shard of copy:
   </figure>
 ---
 
-* Trello Clone: a project management tool allows you to drag & drop the cards and lists in the board
+* PetHome: A social network site dedicated for pet lovers built with Rails
+  <figure>
+    <center>
+      <img src="https://s26.postimg.cc/k6z4xef49/Pethome.jpg" alt="Pet Home" />
+    </center>
+    <figcaption>
+      <a href="https://pethome.herokuapp.com/" target='_blank'>Live here</a>
+      <a href="https://github.com/floalex/pet-home" target='_blank'>GitHub Link</a>
+    </figcaption>
+  </figure>
+---
+
+* FloTrello: a project management tool allows you to drag & drop the cards and lists in the board
   <figure>
     <center>
       <img src="https://s26.postimg.cc/bopot1dqh/Trelloclone_App.jpg" alt="Flo Trello Clone" />

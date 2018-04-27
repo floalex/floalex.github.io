@@ -5,11 +5,9 @@ title: More About me
 
  Hi, I am Florence! You can also call me Flo. 
  
- I am a Software Engineer based in the SF Bay area. Previosly, I worked in product management and data analysis. Most recently, I co-created Layr: A decentralized p2p file storage network. 
+ I'm a software engineer specializing in full-stack development. I have always had a passion in software development. Recently, I co-created Layr: A decentralized p2p cloud file storage network. I have also completed other freelance projects in the past. I am proficient in JavaScript, Node.js, Ruby, Rails, React, Redux and HTML&CSS. 
  
  When I am not coding, you will find me doing High Intensity Interval Training, pilates, playing with cats, or playing piano. 
- 
- I also like tasting different kinds of tea. One of my favorites is Jasmine Pearl Green tea. Not only it helps bring refreshness by drinking it, it also helps relaxed by smelling it. 
  
  I also write about technical articles to share my understandings toward specific topics, you can find out from <a href="https://medium.com/@florenceliang/">here</a>.
  
