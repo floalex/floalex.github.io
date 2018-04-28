@@ -8,7 +8,7 @@ bigimg:
 ---
 
 ## About me
-Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. I have always had a passion in software development. Recently, I co-created Layr: A decentralized p2p cloud file storage network. I have also completed other freelance projects in the past. I am proficient in JavaScript, Node.js, Ruby, Rails, React, and HTML&CSS. 
+Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. I have always had a passion for software development. Recently, I co-created Layr: A decentralized p2p cloud file storage network. I have also completed other freelance projects in the past. I am proficient in JavaScript, Node.js, Ruby, Rails, React, and HTML&CSS. 
 
 ---
 
