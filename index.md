@@ -14,13 +14,13 @@ Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. I ha
 
 ## Experience
 * Full Stack Software Engineer - Yewno Inc. (July 2018 - Present)
-- Developed the Front-End and User Interface of  Yewno Edge app with JavaScript, ES6, React, React-Router, Redux, Redux-Saga, and Immutable.js 
-- Co-authored the subscription system with Stripe React.js for front-end and Python for back-end API  
-- Utilized Ant Design React UI library for animation and special effects to increase users experience  
-- Worked closely with the team to optimize existing API calls in Python; refactored and deprecated unneeded API calls 
-- Applied React High-Order Component to improve component reusability 
-- Implemented Snapshot testing with Jest along with Enzyme 
-- Yewno Edge demo: https://www.linkedin.com/company/yewno/ 
+  - Developed the Front-End and User Interface of  Yewno Edge app with JavaScript, ES6, React, React-Router, Redux, Redux-Saga, and Immutable.js 
+  - Co-authored the subscription system with Stripe React.js for front-end and Python for back-end API  
+  - Utilized Ant Design React UI library for animation and special effects to increase users experience  
+  - Worked closely with the team to optimize existing API calls in Python; refactored and deprecated unneeded API calls 
+  - Applied React High-Order Component to improve component reusability 
+  - Implemented Snapshot testing with Jest along with Enzyme 
+  - Yewno Edge demo: https://www.linkedin.com/company/yewno/ 
 
 
 ## Feature project
