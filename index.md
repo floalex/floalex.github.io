@@ -13,7 +13,15 @@ Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. I ha
 ---
 
 ## Experience
-* Full Stack Software Engineer - Yewno Inc. (July 2018 - Present)
+* Senior Full-Stack Software Engineer - Salesforce Inc. (Aug 2021 - Present)
+  - Led the front-end development and launch of the Metering Usage Interface, utilizing React, Redux, Redux-Saga, and TypeScript. Successfully integrated a new API with Druid, enhancing data ingestion and querying capabilities. This pivotal upgrade significantly improved product development and backend efficiency, directly supporting enterprise-level deals and facilitating the closure of contracts worth millions. Ensure the new UI is tailored to meet the sophisticated needs of enterprise customers, underlining Salesforce's commitment to providing scalable and high-impact solutions.
+  - Designed and implemented Metrics and  Distributed Tracing UI with React and TypeScript, with HighCharts library integration delivering an intuitive user experience for system diagnostics and leading to improved usability and customer satisfaction. Enable real-time updates and high scalability for monitoring services, accommodating over a million services
+  - Developed and expanded the Metering, Metrics, and Traces services API using Spring Boot and Redis, which broadened customer access to essential app services and contributed to an increase in user engagement.
+* Software Engineer - Fivetran Inc. (Jul 2019 - Sept 2020)
+  - Developed, maintained the data pipeline using Java for File services with 10+ billion monthly syncing rows
+  - Designed and implemented a new file pattern-detection algorithm for S3 listing phase to speed up the source extraction time by 20% for enterprise customers, integrated with AWS Java SDK
+  - Designed and built the REST API login task flow with Java, Google Cloud Datastore, and Okta OpenID protocol for the company's internal debugging tool to improve data privacy practices,  gain trust in enterprise business
+* Full Stack Software Engineer - Yewno Inc. (July 2018 -  Apr 2019)
   - Developed the Front-End and User Interface of  Yewno Edge app with JavaScript, ES6, React, React-Router, Redux, Redux-Saga, and Immutable.js 
   - Co-authored the subscription system with Stripe React.js for front-end and Python for back-end API  
   - Utilized Ant Design React UI library for animation and special effects to increase users experience  
