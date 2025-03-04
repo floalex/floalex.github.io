@@ -8,7 +8,7 @@ bigimg:
 ---
 
 ## About me
-Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. I have always had a passion for software development. Recently, I co-created Layr: A decentralized p2p cloud file storage network. I have also completed other freelance projects in the past. I am proficient in JavaScript, Node.js, Ruby, Rails, React, and HTML&CSS. 
+Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. My career interests lie at the intersection of full-stack development and applied machine learning/AI systems. Having built enterprise-scale web applications (React/TypeScript, Spring Boot) and data-intensive services (Druid, Redis) at Salesforce, I'm now actively expanding into ML/AI engineering. I aim to leverage my expertise in distributed systems and real-time data processing to ML infrastructure for production-grade AI applications. 
 
 ---
 
@@ -30,6 +30,14 @@ Hi, my name is Florence. I am a Software Engineer based in the SF Bay area. I ha
   - Implemented Snapshot testing with Jest along with Enzyme 
   - Yewno Edge demo: https://www.linkedin.com/company/yewno/ 
 
+## AI Certifications
+* [Machine Learning Specialization (Stanford Online)](https://coursera.org/share/be38d075c15aae77fc383fffa49cabde)
+* [Kaggle Machine Learning](https://www.kaggle.com/florenceliang)
+
+## AI Projects 
+**House Price Prediction** | Kaggle Competition | 2025 on going    
+- Optimized data pipeline: Handled missing values (median imputation), encoded categorical variables (target encoding)  
+- Tools: Python, Pandas, Scikit-learn, XGBoost 
 
 ## Feature project
 [Layr](https://layr-team.github.io/layr-project/){:target="_blank"} is a decentralized, peer to peer file storage system built atop Kademlia DHT that enforces data integrity and availability, with cryptocurrency-based incentive scheme.
@@ -45,7 +53,15 @@ Quick demo for auditing and patching a redundant shard of copy:
 ---
 
 ## Personal projects
-
+* Construction site: React project on Vercel:
+  <figure>
+    <center>
+      <img src="https://s26.postimg.cc/5g9ewmrmx/myflix_search_page.jpg" alt="Myflix Search" />
+    </center>
+    <figcaption>
+      <a href="https://wangconstruction.co/" target='_blank'>Live here</a>
+    </figcaption>
+  </figure>
 * MyFlix: A Netflix-like video subscription application built with Rails
   <figure>
     <center>
