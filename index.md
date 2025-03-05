@@ -55,9 +55,6 @@ Quick demo for auditing and patching a redundant shard of copy:
 ## Personal projects
 * Construction site: React project on Vercel:
   <figure>
-    <center>
-      <img src="https://s26.postimg.cc/5g9ewmrmx/myflix_search_page.jpg" alt="Myflix Search" />
-    </center>
     <figcaption>
       <a href="https://wangconstruction.co/" target='_blank'>Live here</a>
     </figcaption>
